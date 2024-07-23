@@ -1,4 +1,4 @@
-# flutterapp
+# flutter_demo_app
 
 A new Flutter project.<br>
 This project is a starting point for a Flutter application.
